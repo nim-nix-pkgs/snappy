@@ -1,9 +1,0 @@
-nimcache/
-
-master
-*.exe
-*.a
-
-# Fuzzer-generated files
-crash-*
-

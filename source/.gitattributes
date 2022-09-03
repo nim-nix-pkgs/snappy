@@ -1,2 +1,0 @@
-# prevent git modifying EOL
-*.txt binary
